@@ -1,0 +1,1 @@
+Pasting a 500-line stack trace and typing 'thoughts?' is not prompt engineering, it's emotional dumping.
